@@ -44,5 +44,5 @@ References:
 
 
 http://javascriptissexy.com/understand-javascript-closures-with-ease/
-http://www.w3schools.com/js/js_function_closures.asp
+http://www.w3schools.com/js/js_function_closures.asp <br>
 https://medium.com/javascript-scene/master-the-javascript-interview-what-is-a-closure-b2f0d2152b36#.9q9ylv6q8
